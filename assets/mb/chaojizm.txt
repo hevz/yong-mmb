@@ -16014,7 +16014,7 @@ dmdn 抢手货
 dmdo 控制指令
 dmdp 插播 撒手锏
 dmds 插科打诨 换手率 拖拉
-dmdy 才把 拖把
+dmdy 挺 才把 拖把
 dmdz 报告指出
 dme 扦 抍
 dmeb 捶 拖鞋
